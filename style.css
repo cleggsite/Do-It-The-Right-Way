@@ -256,3 +256,6 @@ th, td {
     font-size: clamp(20px, 1.75vw, 30px);
     font-family: "Google Sans";
 }
+table {
+    border: 3px solid;
+}
